@@ -1,7 +1,7 @@
 # Super Mario World Plains
 Exercise to learn Unity fundamentals: replicating the first level of Donut Plains from Super Mario World (the first level where Mario gets the cape). In this exercise I've implemented the gameplay programming.
 
-![](gifs/Mario_20191012_gif)
+![](gifs/Mario_20191012_gif.gif)
 
 Things I have learnt/done:
 
